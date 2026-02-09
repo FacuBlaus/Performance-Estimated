@@ -48,7 +48,7 @@ The query focuses especially on **packages delivered on time but estimated as ov
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python  
 - Pandas  
@@ -58,7 +58,6 @@ The query focuses especially on **packages delivered on time but estimated as ov
 
 ---
 
-## 📈 Analysis Overview
 
 ### 1. Data Preparation
 
@@ -107,7 +106,7 @@ A correlation matrix is visualized using a heatmap to evaluate dependencies betw
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 - Validate and correct the statistical fields used for estimation.
 - Redesign the estimation logic to consider **inter-leg dependency**, prioritizing packages delayed in any leg.

@@ -6,7 +6,7 @@ The analysis focuses on the relationship between **estimated overdue legs** and 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 This analysis aims to answer the following questions:
 
@@ -17,7 +17,7 @@ This analysis aims to answer the following questions:
 
 ---
 
-## 📊 Estimation Logic and Data Model
+## Estimation Logic and Data Model
 
 This project retrieves **estimation metrics and overdue-related flags at package level**.
 
